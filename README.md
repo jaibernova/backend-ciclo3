@@ -1,0 +1,1 @@
+usar npm start PARA INICIAR EL BACKEND
